@@ -1,0 +1,3 @@
+id,objekt,velikost,barva-rgb
+1,usecka,1,0
+2,trojuhelnik,1,255
